@@ -1,2 +1,20 @@
 # SomePublicGPT
 收集的一些公开的GPT
+1，https://94gpt.com/
+2，https://chat.tgbot.co/chat
+3，https://ai117.com/
+4，https://freegpt.cc/
+5，https://freegpt.one/
+6，https://ai.ls/
+7，https://chat.alpaca-bi.com/
+8，https://askai.ws/
+9，https://fastgpt.app/
+10，https://chat.ninvfeng.xyz/
+11，https://chatforai.com/
+12，https://trychatgp.com/
+13，https://talk.xiu.ee/
+14，https://chat.geekr.dev/
+15，https://chat.tgbot.co/chat
+16，https://desk.im/
+17，https://chat.zecoba.cn/
+18，http://chat.livepo.top/
